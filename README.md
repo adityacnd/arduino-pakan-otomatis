@@ -1,10 +1,10 @@
 # arduino-pakan-otomatis
-persiapkan alat2 berikut yang dibutuhkan:
-esp32
-kabel usb
-breadboard
-kabel jumper
-resistor 
-mpu6050
-servo
-buzzer
+ persiapkan alat2 berikut yang dibutuhkan: <br />
+esp32 <br />
+kabel usb <br />
+breadboard <br />
+kabel jumper <br />
+resistor <br />
+mpu6050 <br />
+servo <br />
+buzzer <br />
